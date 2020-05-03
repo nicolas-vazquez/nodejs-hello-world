@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "aws-sdk": "*",
-    "express": "~3.4.4",
+    "express": "~4.17.1",
     "jade": "~0.35.0"
   },
   "engines": {
